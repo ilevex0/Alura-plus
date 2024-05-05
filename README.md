@@ -28,4 +28,8 @@
 > * Visual Studio Code
 > * Figma.com (Design and Prototyping Tool)
 
+# How to Open the Page in Your Browser:
+1. Download and extract the archive.
+2. Open the *Index.html* file.
+
 [Go to the previous project.](https://github.com/ilevex0/Joana-portfolio)

@@ -176,6 +176,9 @@ body{
         display: block;
     }
     .footer__list{
-        display: block;
+        display: flex;
+        flex-direction: column;
+        gap: 2em;
+        padding-bottom: 5em;
     }
 }

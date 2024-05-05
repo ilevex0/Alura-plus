@@ -1,7 +1,7 @@
 # Advertising page for Alura Combo+
 
 ### Things i've learned:
-* Practiced more HTMl, CSS.
+* Practiced more HTML, CSS.
 * Practiced more GitHub.
 * Learned about Display Grid.
 * Learned more about Animations.
